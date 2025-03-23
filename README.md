@@ -3,6 +3,8 @@
 Overview
 This project focuses on sentiment analysis of Amazon product reviews using Python and Natural Language Toolkit (NLTK). It extracts the sentiment (positive, negative, neutral) from customer reviews and visualizes the distribution of ratings and sentiment scores. By leveraging the  from NLTK's VADER lexicon, this project analyzes customer feedback to gain insights into product sentiment trends.
 
+## Datasets: https://www.kaggle.com/code/rajmehra03/a-complete-text-classfication-guide-word2vec-lstm/input
+
 Features
 - Data Preparation: Handles missing data and prepares text for analysis.
 - Sentiment Analysis: Uses NLTK's VADER to compute positive, negative, and neutral sentiment scores for reviews.
