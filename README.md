@@ -1,4 +1,4 @@
-#Amazon Product Reviews Sentiment Analysis with Python
+**Amazon Product Reviews Sentiment Analysis with Python**
 
 Overview
 This project focuses on sentiment analysis of Amazon product reviews using Python and Natural Language Toolkit (NLTK). It extracts the sentiment (positive, negative, neutral) from customer reviews and visualizes the distribution of ratings and sentiment scores. By leveraging the  from NLTK's VADER lexicon, this project analyzes customer feedback to gain insights into product sentiment trends.
